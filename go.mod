@@ -1,4 +1,4 @@
-module github.com/nicholasjackson/env
+module github.com/iasonliu/env
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
